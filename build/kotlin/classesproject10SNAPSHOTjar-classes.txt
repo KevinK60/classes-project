@@ -1,1 +1,1 @@
-C:\Users\20099267\IdeaProjects\classes-project\build\classes\kotlin\main\ie\setu\classes\MainKt.class;C:\Users\20099267\IdeaProjects\classes-project\build\classes\kotlin\main\ie\setu\classes\Person.class
+C:\Users\20099267\IdeaProjects\classes-project\build\classes\kotlin\main\ie\setu\classes\MainKt$main$$inlined$sortedBy$1.class;C:\Users\20099267\IdeaProjects\classes-project\build\classes\kotlin\main\ie\setu\classes\MainKt.class;C:\Users\20099267\IdeaProjects\classes-project\build\classes\kotlin\main\ie\setu\classes\Person.class
