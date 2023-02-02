@@ -1,7 +1,7 @@
 # classes-project
 
-Created a class called person
-Prints the person name
-prints the hashcode
-Maded a arraylist to store person
-printed the items in the array
+<br>1.Created a class called person
+<br>2.Prints the person name
+<br>3.prints the hashcode
+<br>4.Maded a arraylist to store person
+<br>5.printed the items in the array
